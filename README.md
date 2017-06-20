@@ -1,0 +1,1 @@
+# AspNet.Core.EmbeddedResource.Demo
